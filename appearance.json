@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Bookerly,Literata",
+  "enabledCssSnippets": [
+    "italicise-heading2",
+    "colourise-bold"
+  ]
+}

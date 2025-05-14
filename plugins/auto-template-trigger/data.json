@@ -1,0 +1,16 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "Daily Notes",
+      "templateName": "Day Note"
+    },
+    {
+      "folderPath": "Weeknotes",
+      "templateName": "Week Note"
+    },
+    {
+      "folderPath": "DfE/DfE people convs",
+      "templateName": "People"
+    }
+  ]
+}
