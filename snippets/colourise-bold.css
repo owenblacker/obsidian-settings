@@ -1,5 +1,5 @@
-b, strong {
+body {
 	--bold-color: #f5b85c;
-	/* --bold-weight: 900; */
+	/* --bold-weight: 400; */
 	/* color: #8a5cf5; */
 }
