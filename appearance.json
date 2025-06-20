@@ -5,6 +5,7 @@
   "textFontFamily": "Bookerly,Literata",
   "enabledCssSnippets": [
     "italicise-heading2",
-    "colourise-bold"
+    "colourise-bold",
+    "fade-strikethrough"
   ]
 }
